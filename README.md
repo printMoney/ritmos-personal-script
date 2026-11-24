@@ -9,7 +9,7 @@
 - **Standard Function Keys** flips the "Use F1, F2, etc. keys as standard function keys" setting and applies it immediately.
 - **Night Mode** turns Night Shift, True Tone and auto-brightness on or off together.
 
-**Preferences** at the bottom of the panel lets you hide the short description under each switch.
+**Preferences** at the bottom of the panel lets you hide the short description under each switch, set how see-through the glass is, and tune how bouncy and how fast the panel animates.
 
 ## Install
 
