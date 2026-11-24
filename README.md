@@ -3,11 +3,13 @@
 > [!WARNING]
 > **Use at your own risk and discretion.** This is a personal script, shared as-is, with no warranty and no support. It changes macOS settings and uses private Apple frameworks that can stop working or misbehave after any macOS update. Read the code before you run it: you are responsible for what it does on your Mac.
 
-`ritmos` builds **QuickToggles**, a tiny menu bar app (the coffee cup) with three switches:
+`ritmos` builds **QuickToggles**, a tiny menu bar app. Click the coffee cup for a Liquid Glass panel with three switches:
 
-- **Keep Display Awake** runs `caffeinate -d` until you switch it off or quit the app.
-- **F1–F12 as Standard Function Keys** flips the "Use F1, F2, etc. keys as standard function keys" setting and applies it immediately.
+- **Keep Display Awake** runs `caffeinate -d` for up to 45 minutes, then switches itself off so the battery doesn't drain.
+- **Standard Function Keys** flips the "Use F1, F2, etc. keys as standard function keys" setting and applies it immediately.
 - **Night Mode** turns Night Shift, True Tone and auto-brightness on or off together.
+
+**Preferences** at the bottom of the panel lets you hide the short description under each switch.
 
 ## Install
 
